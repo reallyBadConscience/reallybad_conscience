@@ -6,6 +6,8 @@
 
 ## PURPOSES
 
+* tested school proxy setttings
+
 * checking workflow with bash for windows
 
 ## TODO
