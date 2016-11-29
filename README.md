@@ -13,3 +13,4 @@
 ## TODO
 
 * add stuff
+* test more proxies
